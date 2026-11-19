@@ -90,10 +90,6 @@ Technologies: Next.js, TypeScript, Tailwind CSS.
 ### Professional 
 <div align="center">
 
-# Sayeda Shamaim Fatima
-
-Software Engineer | Full-Stack Developer
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+Modern+Web+Applications;Developing+Scalable+Digital+Solutions;Turning+Ideas+Into+Technology" alt="Animated introduction" />
 
 <br/>
