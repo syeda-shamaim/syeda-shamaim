@@ -1,174 +1,207 @@
 
-<!-- ===================================================== -->
-<!--              SAYEDA SHAMAIM FATIMA                    -->
-<!--              SOFTWARE ENGINEER                        -->
-<!-- ===================================================== -->
+<!-- =====================================================
+     SYEDA SHAMAIM FATIMA | SOFTWARE ENGINEER
+     Midnight Luxury GitHub Profile
+====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:101B30,100:172B4D&height=190&section=header&text=SAYEDA%20SHAMAIM%20FATIMA&fontSize=32&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=65&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:21143D,70:49317A,100:09090F&height=230&section=header&text=Sayeda%20Shamaim%20Fatima&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descSize=14&descAlignY=58" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Engineering+Modern+Digital+Experiences;Full-Stack+Development+%7C+Software+Engineering;From+Concept+to+Production;Turning+Complex+Problems+Into+Solutions" alt="Professional introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=C4A7FF&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;Engineering+Modern+Web+Applications;Full-Stack+Development;Turning+Ideas+Into+Scalable+Solutions" alt="Animated introduction" />
 
 <br/><br/>
 
+<a href="https://video-portfolio-two.vercel.app/">
+<img src="https://img.shields.io/badge/✦_MY_PORTFOLIO-Watch_My_Video-8B5CF6?style=for-the-badge&labelColor=171326" />
+</a>
 <a href="https://github.com/syeda-shamaim">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-Explore_My_Work-27213B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 <a href="https://www.linkedin.com/in/syedashamaimfatima/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://lamsah-mirror.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-49317A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=syeda-shamaim&label=PROFILE+VIEWS&color=1f6feb&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=syeda-shamaim&style=for-the-badge&color=6D4AFF&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<em>Thoughtful Engineering. Creative Development. Meaningful Digital Experiences.</em>
 
 </div>
 
 ---
 
-## 01 / PROFESSIONAL PROFILE
+<div align="center">
 
-I am a Software Engineer focused on building modern, scalable, and user-centric software applications.
+## ABOUT ME
 
-My development approach combines frontend engineering, backend development, API integration, database management, and software architecture to transform ideas into functional digital products.
+</div>
 
-I enjoy working across the complete development lifecycle — from understanding requirements and designing interfaces to implementing application logic, integrating services, managing data, and deploying production-ready solutions.
+I am a Software Engineer focused on designing and developing scalable, high-performance digital products with intuitive user experiences.
 
-My interests extend to AI-powered applications, intelligent automation, and emerging technologies that create meaningful business and user value.
+My expertise spans frontend and backend development, full-stack application engineering, API integration, and database management. I enjoy transforming ideas into practical solutions by building responsive interfaces, implementing robust application logic, and developing applications that address real-world needs.
 
-### Engineering Focus
+My engineering approach is driven by:
 
-- Full-stack web application development
-- Modern frontend architecture and responsive interfaces
-- Backend development and RESTful API integration
-- Database design and application data management
-- AI integration and intelligent software solutions
-- Application architecture, maintainability, and performance
-
+- Writing clean, maintainable, and reusable code.
+- Building responsive, user-centered interfaces.
+- Designing structured and scalable backend architectures.
+- Developing efficient API integrations and database solutions.
+- Continuously learning and adopting modern technologies.
 ---
 
-## 02 / TECHNOLOGY STACK
+<div align="center">
 
-### Frontend Engineering
+## TECHNOLOGY & EXPERTISE
 
-<div align="left">
+<sub>Technologies and tools used across my development work</sub>
+
+</div>
+
+### Frontend Development
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux&theme=dark" />
 </div>
 
-### Backend Engineering
+### Backend Development
 
-<div align="left">
+<div align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" />
 </div>
 
-### Databases
+### Database & Infrastructure
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
-</div>
-
-### Development Tools & Platforms
-
-<div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm&theme=dark" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,postman,vscode,vercel&theme=dark" />
 </div>
 
 ---
 
-## 03 / SELECTED PROJECTS
+<div align="center">
 
-A selection of web applications and digital solutions demonstrating practical development, interface engineering, and product implementation.
+## FEATURED PROJECTS
+
+<sub>A selection of digital products and web applications</sub>
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01. Lamsah Mirror</h3>
+<div align="center">
 
-AI-powered fashion e-commerce platform featuring virtual try-on functionality and interactive product visualization.
+### 01 · LAMSAH MIRROR
 
-Designed to improve the online shopping experience through technology-driven fashion experiences.
+<img src="https://img.shields.io/badge/AI--POWERED-FASHION%20TECHNOLOGY-8B5CF6?style=flat-square" />
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+An AI-powered fashion e-commerce platform featuring virtual try-on functionality and interactive product visualization.
 
-<br/><br/>
+Designed to bring a more engaging and technology-driven experience to online fashion shopping.
+
+**Technology Stack**
+
+`React` `TypeScript` `Vite` `Redux` `AI`
+
+<div align="center">
 
 <a href="https://lamsah-mirror.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_LAMSAH-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02. Zonix Tech</h3>
+<div align="center">
 
-Corporate website developed to establish a professional digital presence through modern interface design, responsive layouts, and structured content.
+### 02 · ZONIX TECH
 
-Focused on usability, visual consistency, and responsive implementation.
+<img src="https://img.shields.io/badge/CORPORATE-WEB%20DEVELOPMENT-8B5CF6?style=flat-square" />
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+A modern corporate website focused on professional digital presentation, responsive layouts, structured content, and intuitive user experience.
 
-<br/><br/>
+Developed with an emphasis on visual consistency and modern frontend engineering.
+
+**Technology Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+<div align="center">
 
 <a href="https://zonix-site.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_ZONIX-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+</div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3>03. BrainSmart School</h3>
+<div align="center">
 
-Educational web platform designed to provide an organized digital experience for school-related information and services.
+### 03 · BRAINSMART SCHOOL
 
-Focused on accessible content presentation and responsive web interfaces.
+<img src="https://img.shields.io/badge/EDUCATION-DIGITAL%20PLATFORM-8B5CF6?style=flat-square" />
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/Web_Development-1F2937?style=flat-square&logo=googlechrome&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive_UI-2563EB?style=flat-square" />
+An educational web platform designed to deliver school-related information and services through a structured and accessible digital experience.
 
-<br/><br/>
+Focused on responsive presentation and user-friendly navigation.
+
+**Technology Stack**
+
+`Frontend Development` `Responsive Design`
+
+<div align="center">
 
 <a href="https://brainsmartschool-three.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_BRAINSMART-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>04. Web Application</h3>
+<div align="center">
 
-A modern web application showcasing frontend development, responsive interface implementation, and user-focused design.
+### 04 · WEB APPLICATION
 
-Focused on creating an intuitive and consistent digital experience.
+<img src="https://img.shields.io/badge/WEB-APPLICATION-8B5CF6?style=flat-square" />
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/Frontend_Engineering-1F2937?style=flat-square" />
-<img src="https://img.shields.io/badge/Web_Development-2563EB?style=flat-square" />
+A modern web application showcasing frontend development, responsive interface implementation, and user-focused digital experiences.
 
-<br/><br/>
+Focused on usability, interface consistency, and modern web development.
+
+**Technology Stack**
+
+`Frontend Engineering` `Modern Web Technologies`
+
+<div align="center">
 
 <a href="https://frontend-peach-eight-94.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+</div>
 
 </td>
 </tr>
@@ -176,80 +209,79 @@ Focused on creating an intuitive and consistent digital experience.
 
 ---
 
-## 04 / ENGINEERING APPROACH
+<div align="center">
 
-| Area | Approach |
+## GITHUB ANALYTICS
+
+<sub>A snapshot of my development activity</sub>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syeda-shamaim&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4A7FF&icon_color=A78BFA&text_color=E5E0F0&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeda-shamaim&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4A7FF&text_color=E5E0F0" />
+
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=syeda-shamaim&hide_border=true&background=0D0B14&ring=A78BFA&fire=C4A7FF&currStreakLabel=C4A7FF&sideLabels=E5E0F0&dates=9B93AA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syeda-shamaim&bg_color=0D0B14&color=C4A7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Development%20Journey" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## CURRENT FOCUS
+
+</div>
+
+| Area | Focus |
 |---|---|
-| Application Development | Structured and maintainable implementation |
-| Frontend Engineering | Responsive, accessible user interfaces |
-| Backend Engineering | Organized business logic and API integration |
-| Database Management | Structured data and reliable operations |
-| Code Quality | Reusability, readability, and maintainability |
-| Problem Solving | Analytical thinking and practical solutions |
-| Deployment | Production deployment and application delivery |
+| Full-Stack Engineering | Modern, scalable applications |
+| Frontend Architecture | Responsive and reusable interfaces |
+| Backend Development | APIs and application logic |
+| Database Engineering | Structured data management |
+| Artificial Intelligence | AI-powered applications |
+| Software Engineering | Maintainability and system design |
 
 ---
 
-## 05 / GITHUB ANALYTICS
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syeda-shamaim&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" />
+## LET'S CONNECT
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeda-shamaim&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=C4A7FF&center=true&vCenter=true&width=550&lines=Open+to+Meaningful+Connections;Let's+Create+Something+Exceptional;Building+the+Future+Through+Technology" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=syeda-shamaim&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-</div>
-
----
-
-## 06 / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syeda-shamaim&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true&custom_title=Development%20Contribution%20Graph" width="100%" />
-
-</div>
-
----
-
-## 07 / CURRENT TECHNICAL INTERESTS
-
-- Advanced full-stack development
-- Scalable application architecture
-- Backend systems and API engineering
-- Database optimization and management
-- AI-powered product development
-- Intelligent automation and emerging technologies
-- Modern software development practices
-
----
-
-## 08 / LET'S CONNECT
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Open+to+Professional+Connections;Let's+Build+Something+Meaningful;Always+Interested+in+Innovative+Ideas" alt="Connect with me" />
-
-<br/><br/>
-
-<a href="https://github.com/syeda-shamaim">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://video-portfolio-two.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_MY_VIDEO_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/syedashamaimfatima/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-49317A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/syeda-shamaim">
+<img src="https://img.shields.io/badge/EXPLORE_GITHUB-27213B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-Building thoughtful solutions. Engineering better experiences. Creating meaningful impact through technology.
+<em>Creating with purpose. Engineering with precision. Growing through innovation.</em>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:172B4D,100:090D16&height=90&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:21143D,100:49317A&height=110&section=footer" />
 
 </div>
