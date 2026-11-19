@@ -14,22 +14,6 @@
 
 <br/><br/>
 
-<a href="https://video-portfolio-two.vercel.app/">
-<img src="https://img.shields.io/badge/✦_MY_PORTFOLIO-Watch_My_Video-8B5CF6?style=for-the-badge&labelColor=171326" />
-</a>
-<a href="https://github.com/syeda-shamaim">
-<img src="https://img.shields.io/badge/GITHUB-Explore_My_Work-27213B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-<a href="https://www.linkedin.com/in/syedashamaimfatima/">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's_Connect-49317A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=syeda-shamaim&style=for-the-badge&color=6D4AFF&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
 <em>Thoughtful Engineering. Creative Development. Meaningful Digital Experiences.</em>
 
 </div>
@@ -42,17 +26,20 @@
 
 </div>
 
-I am a Software Engineer focused on designing and developing scalable, high-performance digital products with intuitive user experiences.
+I am a Software Engineer passionate about designing and developing modern digital products that combine functionality, performance, and thoughtful user experiences.
 
-My expertise spans frontend and backend development, full-stack application engineering, API integration, and database management. I enjoy transforming ideas into practical solutions by building responsive interfaces, implementing robust application logic, and developing applications that address real-world needs.
+My work spans frontend development, backend engineering, API integration, database management, and full-stack application development.
 
-My engineering approach is driven by:
+I enjoy taking ideas from concept to implementation, developing intuitive interfaces, building application logic, and creating solutions that address real-world requirements.
 
-- Writing clean, maintainable, and reusable code.
-- Building responsive, user-centered interfaces.
-- Designing structured and scalable backend architectures.
-- Developing efficient API integrations and database solutions.
-- Continuously learning and adopting modern technologies.
+My approach to engineering emphasizes:
+
+- Clean, maintainable, and reusable code.
+- Responsive and intuitive user interfaces.
+- Structured backend architecture.
+- Efficient API and database integration.
+- Continuous learning and technical improvement.
+
 ---
 
 <div align="center">
@@ -181,27 +168,27 @@ Focused on responsive presentation and user-friendly navigation.
 
 <div align="center">
 
-### 04 · WEB APPLICATION
+### 04 · DOCTOR & PATIENT PLATFORM
 
-<img src="https://img.shields.io/badge/WEB-APPLICATION-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/HEALTHCARE-DIGITAL%20HEALTH%20PLATFORM-8B5CF6?style=flat-square" />
 
 </div>
 
-A modern web application showcasing frontend development, responsive interface implementation, and user-focused digital experiences.
+A comprehensive healthcare platform connecting patients with qualified doctors through a seamless digital experience. Inspired by modern healthcare platforms like oladoc, it enables patients to discover doctors, explore medical specialties, view doctor profiles, check availability, and book appointments online.
 
-Focused on usability, interface consistency, and modern web development.
+Designed to simplify healthcare access through streamlined appointment management, patient-focused features, and intuitive interfaces for both doctors and patients.
+
+**Key Features**
+
+- Doctor discovery and specialty-based search.
+- Doctor profiles and availability management.
+- Online appointment booking.
+- Patient and doctor dashboards.
+- Appointment scheduling and management.
 
 **Technology Stack**
 
-`Frontend Engineering` `Modern Web Technologies`
-
-<div align="center">
-
-<a href="https://frontend-peach-eight-94.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
+`Laravel` `PHP` `MySQL` `REST APIs`
 
 </td>
 </tr>
@@ -258,22 +245,12 @@ Focused on usability, interface consistency, and modern web development.
 
 <div align="center">
 
-## LET'S CONNECT
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=C4A7FF&center=true&vCenter=true&width=550&lines=Open+to+Meaningful+Connections;Let's+Create+Something+Exceptional;Building+the+Future+Through+Technology" />
 
 <br/><br/>
 
-<a href="https://video-portfolio-two.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW_MY_VIDEO_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/syedashamaimfatima/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-49317A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/syeda-shamaim">
-<img src="https://img.shields.io/badge/EXPLORE_GITHUB-27213B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-49317A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
